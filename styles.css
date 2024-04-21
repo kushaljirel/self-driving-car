@@ -1,0 +1,22 @@
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background: darkgray;
+    overflow: hidden;
+    text-align: center;
+}
+
+#myCanvas{
+    background: lightgray;
+    /* position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); */
+}
